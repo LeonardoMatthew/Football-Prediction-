@@ -1,0 +1,12 @@
+For Arsenal_Date,For Arsenal_Time,For Arsenal_Comp,For Arsenal_Round,For Arsenal_Day,For Arsenal_Venue,For Arsenal_Result,For Arsenal_GF,For Arsenal_GA,For Arsenal_Opponent,Standard_Gls,Standard_Sh,Standard_SoT,Standard_SoT%,Standard_G/Sh,Standard_G/SoT,Standard_Dist,Standard_FK,Standard_PK,Standard_PKatt,Expected_xG,Expected_npxG,Expected_npxG/Sh,Expected_G-xG,Expected_np:G-xG,Unnamed: 25_level_0_Match Report
+2025-08-17,16:30,Premier League,Matchweek 1,Sun,Away,W,1.0,0.0,Manchester Utd,1,9,3,33.3,0.11,0.33,18.6,1.0,0,0,1.3,1.3,0.15,-0.3,-0.3,Match Report
+2025-08-23,17:30,Premier League,Matchweek 2,Sat,Home,W,5.0,0.0,Leeds United,5,17,4,23.5,0.24,1.0,15.2,0.0,1,1,2.7,1.9,0.12,2.3,2.1,Match Report
+2025-08-31,16:30,Premier League,Matchweek 3,Sun,Away,L,0.0,1.0,Liverpool,0,11,1,9.1,0.0,0.0,17.5,1.0,0,0,0.5,0.5,0.04,-0.5,-0.5,Match Report
+2025-09-13,12:30,Premier League,Matchweek 4,Sat,Home,W,3.0,0.0,Nott'ham Forest,3,16,5,31.3,0.19,0.6,13.5,0.0,0,0,1.8,1.8,0.11,1.2,1.2,Match Report
+2025-09-16,18:45,Champions Lg,League phase,Tue,Away,W,2.0,0.0,es Athletic Club,2,11,6,54.5,0.18,0.33,13.5,0.0,0,0,1.3,1.3,0.12,0.7,0.7,Match Report
+2025-09-21,16:30,Premier League,Matchweek 5,Sun,Home,D,1.0,1.0,Manchester City,1,12,3,25.0,0.08,0.33,14.1,0.0,0,0,0.9,0.9,0.07,0.1,0.1,Match Report
+2025-09-24,20:00,EFL Cup,Third round,Wed,Away,W,2.0,0.0,Port Vale,2,11,4,36.4,0.18,0.5,,,0,0,,,,,,Match Report
+2025-09-28,16:30,Premier League,Matchweek 6,Sun,Away,W,2.0,1.0,Newcastle Utd,2,20,7,35.0,0.1,0.29,14.2,0.0,0,0,2.0,2.0,0.1,0.0,0.0,Match Report
+2025-10-01,20:00,Champions Lg,League phase,Wed,Home,W,2.0,0.0,gr Olympiacos,2,16,4,25.0,0.13,0.5,12.8,0.0,0,0,2.9,2.9,0.21,-0.9,-0.9,Match Report
+2025-10-04,15:00,Premier League,Matchweek 7,Sat,Home,W,2.0,0.0,West Ham,2,20,4,20.0,0.05,0.25,14.7,0.0,1,1,2.8,2.0,0.11,-0.8,-1.0,Match Report
+,,,,,,--,,,,20,143,41,28.7,0.13,0.44,14.7,2.0,2,2,,,0.12,20.0,18.0,
